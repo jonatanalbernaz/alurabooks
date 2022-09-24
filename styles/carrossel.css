@@ -99,3 +99,9 @@
     
     border-radius: 5px;
 }
+
+/* Sessão autora do mês */
+
+.descricao__avaliacao {
+    margin: 0.5em 0;
+}
