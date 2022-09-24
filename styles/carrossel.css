@@ -55,6 +55,8 @@
     
     font-weight: 700;
     font-family: var(--fonte-principal);
+
+    line-height: 1.2
 }
 
 .descricao__titulo-livro {
@@ -63,12 +65,12 @@
     font-size: 18px;
     font-weight: 700;
     font-family: var(--fonte-principal);
-
     margin: 0.5em 0;
 }
 
 .descricao__texto {
     font-size: 14px;
+    line-height: 1.5;
 }
 
 .descricao__imagem {

@@ -18,6 +18,8 @@
 .contato__texto {
     font-weight: 300;
     margin: 1em 0;
+
+    line-height: 1.5;
 }
 
 .contato__email {
