@@ -52,3 +52,23 @@
         background-position: 5em;
     }
 }
+
+/* Responsive 1728 Desktop */
+
+
+
+
+@media screen and (min-width: 1728px) {
+
+    .banner {
+        padding: 6em 0;
+    }
+
+    .banner__pesquisa {
+        width: 35%;
+    }
+    
+    .banner__pesquisa::placeholder {
+        background-position: 10em;
+    }
+}
