@@ -37,3 +37,28 @@
     color: var(--azul);
     background: url("../img/Email.svg") no-repeat;
 }
+
+/* Responsive 1024 */
+
+
+@media screen and (min-width: 1024px) {
+
+    .contato {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .contato__titulo {
+        font-size: 24px;
+    }
+
+    .contato__descricao {
+        margin-right: 1em;
+        width: 30%;
+    }
+
+    .contato__email {
+        width: 30%;
+    }
+}
