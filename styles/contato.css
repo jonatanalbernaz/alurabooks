@@ -62,3 +62,15 @@
         width: 30%;
     }
 }
+
+/* Responsive 1728 Desktop */
+
+
+
+
+@media screen and (min-width: 1728px) {
+
+    .contato {
+        padding: 3em 25vw;
+    }  
+}
