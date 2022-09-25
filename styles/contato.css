@@ -49,13 +49,13 @@
         align-items: center;
     }
     
-    .contato__titulo {
-        font-size: 24px;
-    }
-
     .contato__descricao {
         margin-right: 1em;
         width: 30%;
+    }
+
+    .contato__titulo {
+        font-size: 24px;
     }
 
     .contato__email {
