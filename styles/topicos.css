@@ -52,3 +52,15 @@
         font-size: 18px;
     }
 }
+
+/* Responsive 1728 Desktop */
+
+
+
+
+@media screen and (min-width: 1728px) {
+
+    .topicos {
+        padding: 3em 20vh;
+    }    
+}
