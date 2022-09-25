@@ -118,3 +118,34 @@
         display: none;
     }
 }
+
+/* Responsive 1728 Desktop */
+
+.container__texto {
+    display: none;
+}
+
+
+@media screen and (min-width: 1728px) {
+
+    .cabecalho {
+        padding: 0 2em;
+    }
+
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+
+        font-size: 20px;
+    }
+    
+    .container__texto {
+        display: flex;
+    }
+
+    .opcoes {
+        margin-right: auto;
+    }
+}
