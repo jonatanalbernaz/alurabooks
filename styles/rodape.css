@@ -68,4 +68,17 @@ hr {
         border-left: 1px solid var(--cinza-claro);
         padding-left: 1em;
     }
+
+    .lista-rodape__link:hover {
+        color: var(--laranja);
+    }
+
+    .topicos__link:hover {
+        color: var(--laranja);
+        background-color: var(--branco);
+    }
+
+    .botoes__ancora:active {
+        background-color: var(--azul);
+    }
 }
